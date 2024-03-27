@@ -20,7 +20,7 @@ certifi==2022.9.14
     # via
     #   -r requirements.in
     #   requests
-#cffi==1.15.1 vulnerabilities detected
+cffi==1.15.1 vulnerabilities detected
     # via
     #   -r requirements.in
     #   cryptography
